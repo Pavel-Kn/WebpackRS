@@ -1,1 +1,1 @@
-## [Webpack](https://pavel-kn.github.io/WebpackRS/)
+## [Webpack](dist/index.html)
